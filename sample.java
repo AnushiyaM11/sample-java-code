@@ -1,6 +1,4 @@
-// BAD EXAMPLE: Violates multiple Google Java Style Guide guidelines
- 
-import java.util.*;import java.io.File;import java.util.function.*;
+ import java.util.*;import java.io.File;import java.util.function.*;
  
 public class badExampleClass { // Bad class name convention
     public static final int some_CONSTANT = 10; // Bad constant naming convention
